@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe.config
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmPrincipal.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmCadastroAluno.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmEditorTexto.resources
